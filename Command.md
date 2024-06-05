@@ -1,5 +1,6 @@
 Lệnh chạy localhost php
 php artisan server (ser)
+php artisan ser
 
 Cài đặt ViteJS
 
